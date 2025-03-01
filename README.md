@@ -1,0 +1,1 @@
+This repository contains a full-stack job board application built with the MERN stack (MongoDB, Express.js, React, Node.js).Features include user authentication, job listings CRUD operations, search and filter, job applications, and a responsive design.
